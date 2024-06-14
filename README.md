@@ -2,12 +2,9 @@
 
 Proyecto de "eCommerce", Desarrollo de una aplicación Fullstack integrado con Mongo, express, react y nodejs, con pago en PayPal Sandbox (solo simulación)
 
-
 # Instalación
 
-1. Clona el repositorio: `git clone https://github.com/Edelabarra017/Frontend-05.git
-                                    https://github.com/Edelabarra017/Backend-05.git
-
+1. Clona el repositorio: `git clone https://github.com/Edelabarra017/Frontend-05.git   /   https://github.com/Edelabarra017/Backend-05.git
 2. Visualízalo en Visual Studio Code en la parte superior (open file)
 
 
